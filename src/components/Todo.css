@@ -1,0 +1,13 @@
+.completed {
+    text-decoration: line-through;
+}
+
+.incomplete {
+    text-decoration: none;
+}
+
+.highlight {
+    font-weight: 600;
+    font-size: 1.25rem;
+    color: coral;
+}
